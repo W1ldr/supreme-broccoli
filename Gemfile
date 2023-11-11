@@ -73,5 +73,4 @@ end
 
 gem "devise", "~> 4.9"
 
-gem 'semantic-ui-sass'
-gem "jquery-rails"
+gem "cssbundling-rails"
