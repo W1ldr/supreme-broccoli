@@ -70,3 +70,8 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem "devise", "~> 4.9"
+
+gem 'semantic-ui-sass'
+gem "jquery-rails"
